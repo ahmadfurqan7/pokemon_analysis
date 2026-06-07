@@ -1,4 +1,4 @@
-### ***Pokemon Dataset Analysis****
+### ***Pokemon Dataset Analysis***
 
 This data science mini-project is performed on the Kaggle's The Complete [Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon).
 
