@@ -6,4 +6,4 @@ The information contained in this dataset include Base Stats, Performance agains
 
 Some queries are solved in the project, using the methods of data science.
 
-[header](https://github.com/ahmadfurqan7/pokemon_analysis/blob/main/images/girantina.png)
+![header](https://github.com/ahmadfurqan7/pokemon_analysis/blob/main/images/girantina.png)
